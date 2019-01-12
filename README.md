@@ -6,6 +6,7 @@ Unity QuadTree & DEMO
 - 算法本身基本无GC开销
 - MathLib支持各种形状的碰撞检测及最近点检测
 
+DEMO中演示了500个大小不同的单位实时AOI：
 
 
 
